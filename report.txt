@@ -23,6 +23,3 @@ g)git status:- It is used to get the current status of the dirctory.
 h)git commit -m "":- It is used to commit the existing directory, in this command you can add a messgae also as a statement.
 i)git push:- It is used to push my file to the my created repository.
 
-
-
-
