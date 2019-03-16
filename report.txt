@@ -1,0 +1,18 @@
+ REPORT FILE
+
+STUDENT ID:1897022
+NAME:AMNINDER KAUR
+
+COMMANDS USED:-
+
+ls: It used for to list the all syestem files.
+mkdir:It is used for making new directory.
+cd :It is used for change directory.
+pwd: It is check the current working folder.
+git init: It is used for initalize the new repository.
+git add:It is adds the chnages in working directory.
+git status:It is used for get the current status of the directory.
+git commit -m"":It is used for save your changes to the local repository.
+git push:It is used for upload local repository file to a remote repository.  
+git clone: It is used for link with the git repository with the help of the URL. 
+
